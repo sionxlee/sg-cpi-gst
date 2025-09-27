@@ -1,0 +1,6 @@
+data/*
+!data/sample_cpi.csv
+.DS_Store
+.Rproj.user/
+.Rhistory
+.RData
